@@ -36,7 +36,7 @@ Exercícios:
 | *Admnistrador* |Cadastro de médicos, cadastro de pacientes, administrar consultas. |
 
 # 3. Escolha dois casos de uso para detalhar, especificando pré-condições, fluxo.
-principal, fluxos alternativos (exceção) e pós-condições (exemplo feito em sala).
+
 # Caso de uso 1: Agendar consulta.
 # Ator: Paciente.
 # Pré-condição:
