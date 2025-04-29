@@ -41,29 +41,30 @@ Exercícios:
 # Ator: Paciente.
 # Pré-condição:
 O paciente deve estar cadastrado e autenticado no sistema.
-- Fluxo principal:
+# Fluxo principal:
 * O paciente acessa a função de agendamento.
 * O sistema mostra os médicos e seus horários disponíveis.
 * Dentro disso o paciente escolhe um médico e um horário disponível.
 * O sistema registra o agendamento.
 * O sistema confirma o agendamento.
-- Fluxos alternativos (Exceção)
+# Fluxos alternativos (Exceção)
 * Se o horário já estiver preenchido, o sistema informa e solicita uma nova escolha
 * Caso o médico não esteja mais disponível o sistema atualiza a lista de médicos disponíveis.
-- Pós-condição
+# Pós-condição
 * Consulta agendada com êxito, sendo vísivel tanto ao paciente quanto ao médico
 # Caso de uso 2: Atualizar a ficha do paciente
 # Ator: Médico
-# Pré condições: O médico deve estar autenticado e autorizado a acessar a ficha do paciente
-- Fluxo principal
+# Pré condição:
+O médico deve estar autenticado e autorizado a acessar a ficha do paciente
+# Fluxo principal
 * O médico seleciona seu paciente depois da consulta.
 * O sistema exibe a ficha médica.
 * O médico adiciona ou kkuda informações sobre a consulta.
 * O sistema salva essas alterações na ficha.
-- Fluxos alternativos (Exceção)
+# Fluxos alternativos (Exceção)
 * Caso o paciente não seja encontrado o sistema exibe uma mensagem de erro.
 * Se acabar havendo erro ao salvar informações, o sistema alerta o médico e mantém os dados não salvos.
-- Pós-condições
+# Pós-condições
 * Ficha atualizada com as informações da consulta.
 
 
