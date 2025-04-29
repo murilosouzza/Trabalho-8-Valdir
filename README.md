@@ -17,7 +17,7 @@ prontuários dos pacientes.
 • Administrador: Usuário que gerencia o cadastro de médicos e pacientes, além 
 de gerenciar as consultas.  
 Exercícios:  
-1. Listando 6 casos de uso considerando todos os atores
+# 1. Listando 6 casos de uso considerando todos os atores
 - Agendar consulta.
 - Visualizar histórico médico.
 - Acessar ficha do paciente.
@@ -27,7 +27,7 @@ Exercícios:
 - Gerenciar consulta.
 
 
-2. Relacionar cada ator com seus respectivos casos de uso.
+# 2. Relacionar cada ator com seus respectivos casos de uso.
 
 | Ator| Casos de uso |
 |---|---|
@@ -35,7 +35,7 @@ Exercícios:
 | *Médico* | Acessar ficha do paciente, e atualizar o prontuário dele. |
 | *Admnistrador* |Cadastro de médicos, cadastro de pacientes, administrar consultas. |
 
-4. Escolha dois casos de uso para detalhar, especificando pré-condições, fluxo.
+# 3. Escolha dois casos de uso para detalhar, especificando pré-condições, fluxo.
 principal, fluxos alternativos (exceção) e pós-condições (exemplo feito em sala).
 # Caso de uso 1: Agendar consulta.
 # Ator: Paciente.
