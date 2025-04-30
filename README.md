@@ -4,6 +4,7 @@
 # Aluno: Murilo Santos Souza
 # RA: 2038823 
 # Curso: ADS, Turma C, Noturno
+# 1° Termo
 # Cenário: Sistema de Gerenciamento de Clínica Médica  
 # Descrição do Sistema: 
 A clínica médica deseja implementar um sistema para gerenciar consultas, médicos, 
