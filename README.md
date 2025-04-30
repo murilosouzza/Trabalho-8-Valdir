@@ -63,7 +63,7 @@ O médico deve estar autenticado e autorizado a acessar a ficha do paciente
 * O sistema salva essas alterações na ficha.
 # Fluxos alternativos (Exceção)
 * Caso o paciente não seja encontrado o sistema exibe uma mensagem de erro.
-* Se acabar havendo erro ao salvar informações, o sistema alerta o médico e mantém os dados não salvos.
+* Se acabar havendo erro ao salvar informações, o sistema alerta o médico e mantém os dados antigos.
 # Pós-condições
 * Ficha atualizada com as informações da consulta.
 
