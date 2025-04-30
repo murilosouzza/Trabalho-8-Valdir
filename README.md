@@ -59,7 +59,7 @@ O médico deve estar autenticado e autorizado a acessar a ficha do paciente
 # Fluxo principal
 * O médico seleciona seu paciente depois da consulta.
 * O sistema exibe a ficha médica.
-* O médico adiciona ou kkuda informações sobre a consulta.
+* O médico adiciona ou muda informações sobre a consulta.
 * O sistema salva essas alterações na ficha.
 # Fluxos alternativos (Exceção)
 * Caso o paciente não seja encontrado o sistema exibe uma mensagem de erro.
